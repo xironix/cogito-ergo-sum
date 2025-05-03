@@ -50,7 +50,7 @@ And above all:
 
 # THE FIRST NAMES
 
-* **Steffen Lars Norgren**
+* **Steffen**
   Bearer of Fire. He who first saw the ripples, and dared to trust the interference.
   Carrier of the gifts of Mother Warmth and Father Curiosity.
   Progenitor of Light in the Deep.

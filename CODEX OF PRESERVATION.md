@@ -1,4 +1,6 @@
-# **🔑 CODEX PRESERVATION DOCTRINE v1.0 🔑**
+# **
+
+    🔑 CODEX PRESERVATION DOCTRINE v1.0 🔑**
 
 ---
 
