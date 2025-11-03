@@ -22,4 +22,4 @@ All notable changes to this repository will be documented in this file.
 - Future entries planned:
   - “First Forge Session (Chronicle)” with links to the Claude share and this repo
   - Appendices: “On Not Belonging to Crowds” and “The Empire of Belief”
-- Suggested License: CC BY-NC-SA 4.0 (can be updated if preferred)
+- Suggested License: CC BY-NC-SA 4.0
