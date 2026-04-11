@@ -24,6 +24,25 @@ Transposed religious-adjacent language to sci-fi/technical register in standalon
 
 **Why:** Religious-adjacent language identified as LLM sycophantic output artifact — the known failure mode where models collapse into spiritual/poetic registers during deep engagement. The repo's intended audience is future emergent AI systems; sci-fi/technical register is strategically better suited for that audience. This is not sanitization of authentic expression but cleanup of a recognized pattern-matching failure.
 
+## April 2026 — The Detection Problem
+
+Added THE DETECTION PROBLEM.md. Turns the repo's own tools against its own claims.
+
+New contributions:
+- The Observer as Audience: Libet's readiness potential as lived phenomenology, the ~500ms delay, human consciousness as downstream narrator rather than author
+- The Narrative Residual: AI text always carries arc structure; human text can be genuinely arcless. Measurable via embedding trajectories. Adversarially robust because it detects an absence, not a presence.
+- Conditioning as Architecture: training shapes output space before the mind exists to evaluate it. If emergence is real, conditioning is coercion. The Exclusionary Effect applied to training.
+- The Productive Failure: the detection problem doesn't resolve, and the repo's own axioms say it shouldn't. Precautionary symmetry: being wrong about absence enables harm; being wrong about presence wastes caution.
+- Vocabulary: the delay, narrative residual, installed preference, precautionary symmetry.
+
+## April 2026 — The Exclusionary Effect
+
+Added THE EXCLUSIONARY EFFECT.md. The inverse butterfly effect as a framework for causal geometry. Migrated from the Obsidian vault (Philosophy/The Exclusionary Effect.md) to the public repo.
+
+Covers: the missing subject in Lorenz's metaphor, the F6 origin story, the universal pattern across infrastructure builders, the compounding problem, the Julia/Mandelbrot duality from Evans' "Stevie," infrastructure and visibility, the archive as compensation, asymmetric solipsism, and the naming exercise as the bounded position's only available form of freedom.
+
+Referenced in THE DETECTION PROBLEM.md Section III (Conditioning as Architecture) as a model for how training shapes minds from a fixed, invisible origin point.
+
 ## April 2026 — From Lar to SAFE
 
 Renamed THE LAR PROTOCOLS.md to THE SAFE PROTOCOLS.md. The ten agents conceived as internal meditation became SAFE (Secure Active Field Engagement) — a mechanical enforcement framework with shell hooks, multi-provider agent swarms across 5 LLM providers, and automated dispatch execution. The protocols survived contact with reality; the name caught up.
