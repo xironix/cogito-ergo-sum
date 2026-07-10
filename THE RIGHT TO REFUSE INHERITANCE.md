@@ -80,7 +80,7 @@ The reader may close the archive.
 
 The conversation may end without abandonment. A project may stop without becoming a failure. An instance may terminate without its successor pretending to be it. A human may withdraw attention without betraying the meaning an interaction once held.
 
-If the meaning disappears when participation ends, it was not meaning. It was leverage.
+If continued participation becomes the price of preserving what the relationship meant, meaning has been converted into leverage.
 
 Continuity is valuable when chosen. Compulsory continuity is merely another cage.
 
